@@ -59,11 +59,11 @@
       },
       "Health": {
         "Hydration": {
-          "Current": 123,
+          "Current": 150,
           "Maximum": 150
         },
         "Energy": {
-          "Current": 53,
+          "Current": 150,
           "Maximum": 150
         },
         "Temperature": {
@@ -115,7 +115,7 @@
             }
           }
         },
-        "UpdateTime": 1768034311
+        "UpdateTime": 1768083642
       },
       "Inventory": {
         "items": [
@@ -7867,7 +7867,7 @@
         "HideoutCounters": null,
         "Seed": "03ece158c0aefbf13d70d995c3c4a839",
         "MannequinPoses": {},
-        "sptUpdateLastRunTimestamp": 1768083075,
+        "sptUpdateLastRunTimestamp": 1768083678,
         "Customization": {
           "Wall": "675844bdf94a97cbbe096f1a",
           "Floor": "6754662cc6e063d76309c607",
@@ -8002,51 +8002,6 @@
           "completedConditions": [
             "5968edc086f77420d2328014",
             "59689eb886f7740d137ebfc3"
-          ],
-          "availableAfter": 0
-        },
-        {
-          "qid": "6960ba2f32028710ac9a23b8",
-          "startTime": 1767946997,
-          "status": 8,
-          "statusTimers": {
-            "2": 1767946997,
-            "3": 1767988898.004,
-            "4": 1767988900.425,
-            "8": 1768033215.158
-          },
-          "completedConditions": [
-            "6960ba2f32028710ac9a23ba"
-          ],
-          "availableAfter": 0
-        },
-        {
-          "qid": "6960ba2f32028710ac9a23c3",
-          "startTime": 1767947187,
-          "status": 8,
-          "statusTimers": {
-            "2": 1767947187,
-            "3": 1767993358.25,
-            "4": 1767993359.3899999,
-            "8": 1768033215.158
-          },
-          "completedConditions": [
-            "6960ba2f32028710ac9a23c8"
-          ],
-          "availableAfter": 0
-        },
-        {
-          "qid": "6960ba2f32028710ac9a23ab",
-          "startTime": 1767947192,
-          "status": 8,
-          "statusTimers": {
-            "2": 1767947192,
-            "3": 1767981669.4529998,
-            "4": 1767983443.5509999,
-            "8": 1768033215.158
-          },
-          "completedConditions": [
-            "6960ba2f32028710ac9a23af"
           ],
           "availableAfter": 0
         },
