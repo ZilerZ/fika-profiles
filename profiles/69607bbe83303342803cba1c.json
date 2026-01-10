@@ -114,7 +114,7 @@
             }
           }
         },
-        "UpdateTime": 1768067211
+        "UpdateTime": 1768084361
       },
       "Inventory": {
         "items": [
@@ -5148,8 +5148,8 @@
           {
             "_id": "6961af807e577649bc83a2f3",
             "_tpl": "54527a984bdc2d4e668b4567",
-            "parentId": "696155678446ef5e1c17a9c8",
-            "slotId": "5",
+            "parentId": "69608f9b32028710ac92aff7",
+            "slotId": "pocket2",
             "location": {
               "x": 0,
               "y": 0,
@@ -5629,7 +5629,7 @@
             "parentId": "664115f68b8ae85875060b39",
             "slotId": "hideout",
             "location": {
-              "x": 5,
+              "x": 3,
               "y": 27,
               "r": "Horizontal"
             },
@@ -6925,8 +6925,8 @@
           {
             "_id": "6961e265a4514139b886236f",
             "_tpl": "5a0c27731526d80618476ac4",
-            "parentId": "69608f9b32028710ac92aff7",
-            "slotId": "pocket4",
+            "parentId": "696155678446ef5e1c17a9c8",
+            "slotId": "6",
             "location": {
               "x": 0,
               "y": 0,
@@ -7062,8 +7062,8 @@
           {
             "_id": "69619b585457e8f7560000de",
             "_tpl": "5a3c16fe86f77452b62de32a",
-            "parentId": "69608f9b32028710ac92aff7",
-            "slotId": "pocket2",
+            "parentId": "696155678446ef5e1c17a9c8",
+            "slotId": "6",
             "location": {
               "x": 0,
               "y": 1,
@@ -7077,7 +7077,7 @@
             "_id": "6961b0a17e577649bc83cf35",
             "_tpl": "5a718da68dc32e000d46d264",
             "parentId": "69608f9b32028710ac92aff7",
-            "slotId": "pocket2",
+            "slotId": "pocket4",
             "location": {
               "x": 0,
               "y": 0,
@@ -8292,11 +8292,11 @@
           {
             "_id": "6961b50e01001a5967fe59c6",
             "_tpl": "59e6918f86f7746c9f75e849",
-            "parentId": "696155678446ef5e1c17a9c8",
-            "slotId": "5",
+            "parentId": "69608f9b32028710ac92aff7",
+            "slotId": "pocket2",
             "location": {
-              "x": 1,
-              "y": 0,
+              "x": 0,
+              "y": 1,
               "r": "Horizontal"
             },
             "upd": {
@@ -18970,12 +18970,6 @@
           "type": "HandoverItem",
           "value": 3,
           "sourceId": "5ac346a886f7744e1b083d67"
-        },
-        "673f5d6fdd6ed700c703afdc": {
-          "id": "5ffcac4e1285295b7441ee01",
-          "type": "CounterCrafting",
-          "value": 20,
-          "sourceId": "673f5d6fdd6ed700c703afdc"
         }
       },
       "InsuredItems": [
@@ -19264,7 +19258,7 @@
         "Production": {
           "66827062405f392b203a44cf": {
             "Products": [],
-            "Progress": 18311,
+            "Progress": 20317,
             "inProgress": true,
             "StartTimestamp": 1768064770,
             "SkipTime": 0,
@@ -19844,7 +19838,7 @@
         "HideoutCounters": null,
         "Seed": "d83cc8aa24ac8ae282ae73395e138f1b",
         "MannequinPoses": {},
-        "sptUpdateLastRunTimestamp": 1768083075,
+        "sptUpdateLastRunTimestamp": 1768085081,
         "Customization": {
           "Wall": "675844bdf94a97cbbe096f1a",
           "Floor": "6758443ff94a97cbbe096f18",
@@ -23291,6 +23285,211 @@
           "production": false,
           "visible": true,
           "value": 20
+        },
+        {
+          "id": "64f5b9e5fa34f11b3807571e",
+          "type": "FuelConsumption",
+          "passive": true,
+          "production": false,
+          "visible": true,
+          "value": 5
+        },
+        {
+          "id": "64f5b9e5fa34f11b3807571f",
+          "type": "EnergyRegeneration",
+          "passive": true,
+          "production": false,
+          "visible": true,
+          "value": -5
+        },
+        {
+          "id": "64f5b9e5fa34f11b38075720",
+          "type": "HealthRegeneration",
+          "passive": true,
+          "production": false,
+          "visible": true,
+          "value": -5
+        },
+        {
+          "id": "64f5b9e5fa34f11b38075721",
+          "type": "ExperienceRate",
+          "passive": true,
+          "production": false,
+          "visible": true,
+          "value": -3
+        },
+        {
+          "id": "64f5b9e5fa34f11b38075722",
+          "type": "SkillGroupLevelingBoost",
+          "passive": true,
+          "production": false,
+          "visible": true,
+          "value": -3,
+          "skillType": 0
+        },
+        {
+          "id": "64f5b9e5fa34f11b38075732",
+          "type": "FuelConsumption",
+          "passive": true,
+          "production": false,
+          "visible": true,
+          "value": 5
+        },
+        {
+          "id": "64f5b9e5fa34f11b38075733",
+          "type": "EnergyRegeneration",
+          "passive": true,
+          "production": false,
+          "visible": true,
+          "value": -5
+        },
+        {
+          "id": "64f5b9e5fa34f11b38075734",
+          "type": "HealthRegeneration",
+          "passive": true,
+          "production": false,
+          "visible": true,
+          "value": -5
+        },
+        {
+          "id": "64f5b9e5fa34f11b38075735",
+          "type": "ExperienceRate",
+          "passive": true,
+          "production": false,
+          "visible": true,
+          "value": -3
+        },
+        {
+          "id": "64f5b9e5fa34f11b38075736",
+          "type": "SkillGroupLevelingBoost",
+          "passive": true,
+          "production": false,
+          "visible": true,
+          "value": -3,
+          "skillType": 0
+        },
+        {
+          "id": "64f5b9e5fa34f11b38075746",
+          "type": "FuelConsumption",
+          "passive": true,
+          "production": false,
+          "visible": true,
+          "value": 5
+        },
+        {
+          "id": "64f5b9e5fa34f11b38075747",
+          "type": "EnergyRegeneration",
+          "passive": true,
+          "production": false,
+          "visible": true,
+          "value": -5
+        },
+        {
+          "id": "64f5b9e5fa34f11b38075748",
+          "type": "HealthRegeneration",
+          "passive": true,
+          "production": false,
+          "visible": true,
+          "value": -5
+        },
+        {
+          "id": "64f5b9e5fa34f11b38075749",
+          "type": "ExperienceRate",
+          "passive": true,
+          "production": false,
+          "visible": true,
+          "value": -3
+        },
+        {
+          "id": "64f5b9e5fa34f11b3807574a",
+          "type": "SkillGroupLevelingBoost",
+          "passive": true,
+          "production": false,
+          "visible": true,
+          "value": -3,
+          "skillType": 0
+        },
+        {
+          "id": "64f5b9e5fa34f11b3807575a",
+          "type": "FuelConsumption",
+          "passive": true,
+          "production": false,
+          "visible": true,
+          "value": 5
+        },
+        {
+          "id": "64f5b9e5fa34f11b3807575b",
+          "type": "EnergyRegeneration",
+          "passive": true,
+          "production": false,
+          "visible": true,
+          "value": -5
+        },
+        {
+          "id": "64f5b9e5fa34f11b3807575c",
+          "type": "HealthRegeneration",
+          "passive": true,
+          "production": false,
+          "visible": true,
+          "value": -5
+        },
+        {
+          "id": "64f5b9e5fa34f11b3807575d",
+          "type": "ExperienceRate",
+          "passive": true,
+          "production": false,
+          "visible": true,
+          "value": -3
+        },
+        {
+          "id": "64f5b9e5fa34f11b3807575e",
+          "type": "SkillGroupLevelingBoost",
+          "passive": true,
+          "production": false,
+          "visible": true,
+          "value": -3,
+          "skillType": 0
+        },
+        {
+          "id": "64f5b9e5fa34f11b38075764",
+          "type": "FuelConsumption",
+          "passive": true,
+          "production": false,
+          "visible": true,
+          "value": -20
+        },
+        {
+          "id": "64f5b9e5fa34f11b38075765",
+          "type": "EnergyRegeneration",
+          "passive": true,
+          "production": false,
+          "visible": true,
+          "value": 20
+        },
+        {
+          "id": "64f5b9e5fa34f11b38075766",
+          "type": "HealthRegeneration",
+          "passive": true,
+          "production": false,
+          "visible": true,
+          "value": 20
+        },
+        {
+          "id": "64f5b9e5fa34f11b38075767",
+          "type": "ExperienceRate",
+          "passive": true,
+          "production": false,
+          "visible": true,
+          "value": 12
+        },
+        {
+          "id": "64f5b9e5fa34f11b38075768",
+          "type": "SkillGroupLevelingBoost",
+          "passive": true,
+          "production": false,
+          "visible": true,
+          "value": 12,
+          "skillType": 0
         }
       ],
       "Notes": {
