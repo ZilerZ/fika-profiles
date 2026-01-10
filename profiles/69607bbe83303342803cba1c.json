@@ -59,11 +59,11 @@
       },
       "Health": {
         "Hydration": {
-          "Current": 108,
+          "Current": 150,
           "Maximum": 150
         },
         "Energy": {
-          "Current": 100,
+          "Current": 150,
           "Maximum": 150
         },
         "Temperature": {
@@ -114,7 +114,7 @@
             }
           }
         },
-        "UpdateTime": 1768007967
+        "UpdateTime": 1768013700
       },
       "Inventory": {
         "items": [
@@ -148,11 +148,11 @@
           {
             "_id": "69608f9b32028710ac92afdb",
             "_tpl": "544a38634bdc2d58388b4568",
-            "parentId": "696090ae32028710ac92de9c",
-            "slotId": "main",
+            "parentId": "6961c8151d89ab0adc1e0b3a",
+            "slotId": "GridView (3)",
             "location": {
-              "x": 1,
-              "y": 5,
+              "x": 0,
+              "y": 1,
               "r": "Horizontal"
             }
           },
@@ -526,7 +526,7 @@
               "r": "Horizontal"
             },
             "upd": {
-              "StackObjectsCount": 466593
+              "StackObjectsCount": 332076
             }
           },
           {
@@ -966,11 +966,11 @@
           {
             "_id": "69608f9b32028710ac92b0ce",
             "_tpl": "5b7c710788a4506dec015957",
-            "parentId": "696090ac32028710ac92de93",
-            "slotId": "main",
+            "parentId": "664115f68b8ae85875060b39",
+            "slotId": "hideout",
             "location": {
-              "x": 3,
-              "y": 6,
+              "x": 6,
+              "y": 4,
               "r": "Horizontal"
             }
           },
@@ -1145,8 +1145,8 @@
           {
             "_id": "69608f9b32028710ac92b0ed",
             "_tpl": "59e6906286f7746c9f75e847",
-            "parentId": "69608f9b32028710ac92aff7",
-            "slotId": "pocket4",
+            "parentId": "696155678446ef5e1c17a9c8",
+            "slotId": "10",
             "location": {
               "x": 0,
               "y": 0,
@@ -1433,8 +1433,8 @@
             "parentId": "696090ae32028710ac92de9c",
             "slotId": "main",
             "location": {
-              "x": 7,
-              "y": 2,
+              "x": 6,
+              "y": 3,
               "r": "Horizontal"
             },
             "upd": {
@@ -1701,11 +1701,11 @@
           {
             "_id": "696093e632028710ac936f5e",
             "_tpl": "440de5d056825485a0cf3a19",
-            "parentId": "696090ae32028710ac92de9c",
-            "slotId": "main",
+            "parentId": "664115f68b8ae85875060b39",
+            "slotId": "hideout",
             "location": {
-              "x": 0,
-              "y": 8,
+              "x": 2,
+              "y": 4,
               "r": "Horizontal"
             },
             "upd": {
@@ -1957,8 +1957,8 @@
             "parentId": "696090ae32028710ac92de9c",
             "slotId": "main",
             "location": {
-              "x": 6,
-              "y": 2,
+              "x": 7,
+              "y": 3,
               "r": "Horizontal"
             },
             "upd": {
@@ -2051,8 +2051,8 @@
             "slotId": "main",
             "location": {
               "x": 2,
-              "y": 8,
-              "r": "Vertical"
+              "y": 7,
+              "r": "Horizontal"
             },
             "upd": {
               "Repairable": {
@@ -2245,7 +2245,7 @@
             "parentId": "696090ae32028710ac92de9c",
             "slotId": "main",
             "location": {
-              "x": 7,
+              "x": 8,
               "y": 3,
               "r": "Horizontal"
             },
@@ -2321,7 +2321,7 @@
             "parentId": "696090ae32028710ac92de9c",
             "slotId": "main",
             "location": {
-              "x": 5,
+              "x": 4,
               "y": 2,
               "r": "Horizontal"
             },
@@ -2452,7 +2452,7 @@
               "r": "Horizontal"
             },
             "upd": {
-              "StackObjectsCount": 132
+              "StackObjectsCount": 133
             }
           },
           {
@@ -2776,8 +2776,8 @@
             "parentId": "696090ae32028710ac92de9c",
             "slotId": "main",
             "location": {
-              "x": 8,
-              "y": 2,
+              "x": 5,
+              "y": 3,
               "r": "Horizontal"
             },
             "upd": {
@@ -2787,11 +2787,11 @@
           {
             "_id": "6960acab32028710ac98191a",
             "_tpl": "577d128124597739d65d0e56",
-            "parentId": "696090ae32028710ac92de9c",
-            "slotId": "main",
+            "parentId": "6961c8151d89ab0adc1e0b3a",
+            "slotId": "GridView (5)",
             "location": {
               "x": 0,
-              "y": 3,
+              "y": 0,
               "r": "Horizontal"
             }
           },
@@ -2827,11 +2827,11 @@
           {
             "_id": "6960acab32028710ac981927",
             "_tpl": "6113cc78d3a39d50044c065a",
-            "parentId": "696090ae32028710ac92de9c",
-            "slotId": "main",
+            "parentId": "6961c8151d89ab0adc1e0b3a",
+            "slotId": "GridView (6)",
             "location": {
-              "x": 3,
-              "y": 3,
+              "x": 0,
+              "y": 1,
               "r": "Horizontal"
             }
           },
@@ -2988,9 +2988,9 @@
             "parentId": "696090ae32028710ac92de9c",
             "slotId": "main",
             "location": {
-              "x": 3,
-              "y": 8,
-              "r": "Vertical"
+              "x": 2,
+              "y": 6,
+              "r": "Horizontal"
             },
             "upd": {
               "Repairable": {
@@ -3044,11 +3044,11 @@
           {
             "_id": "696147588446ef5e1c144818",
             "_tpl": "57c69dd424597774c03b7bbc",
-            "parentId": "696090ae32028710ac92de9c",
-            "slotId": "main",
+            "parentId": "6961c8151d89ab0adc1e0b3a",
+            "slotId": "GridView (1)",
             "location": {
               "x": 0,
-              "y": 4,
+              "y": 0,
               "r": "Vertical"
             },
             "upd": {
@@ -3096,11 +3096,11 @@
           {
             "_id": "696146ed8446ef5e1c142c2a",
             "_tpl": "59fc48e086f77463b1118392",
-            "parentId": "696090ae32028710ac92de9c",
-            "slotId": "main",
+            "parentId": "6961c8151d89ab0adc1e0b3a",
+            "slotId": "GridView (4)",
             "location": {
-              "x": 3,
-              "y": 5,
+              "x": 0,
+              "y": 1,
               "r": "Horizontal"
             },
             "upd": {
@@ -3314,11 +3314,11 @@
           {
             "_id": "696147628446ef5e1c145ec2",
             "_tpl": "59db7eed86f77461f8380365",
-            "parentId": "696090ae32028710ac92de9c",
-            "slotId": "main",
+            "parentId": "6961c8151d89ab0adc1e0b3a",
+            "slotId": "GridView (2)",
             "location": {
-              "x": 1,
-              "y": 4,
+              "x": 0,
+              "y": 0,
               "r": "Vertical"
             },
             "upd": {
@@ -3750,7 +3750,7 @@
             "parentId": "696090ae32028710ac92de9c",
             "slotId": "main",
             "location": {
-              "x": 8,
+              "x": 9,
               "y": 3,
               "r": "Horizontal"
             },
@@ -3815,9 +3815,9 @@
             "parentId": "696090ae32028710ac92de9c",
             "slotId": "main",
             "location": {
-              "x": 4,
-              "y": 8,
-              "r": "Vertical"
+              "x": 2,
+              "y": 5,
+              "r": "Horizontal"
             },
             "upd": {
               "Repairable": {
@@ -4174,11 +4174,11 @@
           {
             "_id": "6961711f8446ef5e1c1c23b7",
             "_tpl": "5c165d832e2216398b5a7e36",
-            "parentId": "696175708446ef5e1c1d1234",
-            "slotId": "5",
+            "parentId": "696090af32028710ac92de9f",
+            "slotId": "main",
             "location": {
               "x": 0,
-              "y": 0,
+              "y": 5,
               "r": "Horizontal"
             },
             "upd": {
@@ -4493,7 +4493,7 @@
             "slotId": "main",
             "location": {
               "x": 0,
-              "y": 5,
+              "y": 7,
               "r": "Vertical"
             }
           },
@@ -4670,11 +4670,11 @@
           {
             "_id": "6961884e7e577649bc7c92ab",
             "_tpl": "440de5d056825485a0cf3a19",
-            "parentId": "696090ae32028710ac92de9c",
-            "slotId": "main",
+            "parentId": "664115f68b8ae85875060b39",
+            "slotId": "hideout",
             "location": {
               "x": 0,
-              "y": 6,
+              "y": 4,
               "r": "Horizontal"
             },
             "upd": {
@@ -4792,8 +4792,8 @@
             "parentId": "696090af32028710ac92de9f",
             "slotId": "main",
             "location": {
-              "x": 4,
-              "y": 6,
+              "x": 2,
+              "y": 5,
               "r": "Horizontal"
             }
           },
@@ -4938,8 +4938,8 @@
             "parentId": "696090ae32028710ac92de9c",
             "slotId": "main",
             "location": {
-              "x": 6,
-              "y": 4,
+              "x": 8,
+              "y": 2,
               "r": "Horizontal"
             },
             "upd": {
@@ -4962,8 +4962,8 @@
             "parentId": "696090ae32028710ac92de9c",
             "slotId": "main",
             "location": {
-              "x": 5,
-              "y": 4,
+              "x": 7,
+              "y": 2,
               "r": "Horizontal"
             },
             "upd": {
@@ -4976,9 +4976,9 @@
             "parentId": "696090ae32028710ac92de9c",
             "slotId": "main",
             "location": {
-              "x": 3,
-              "y": 6,
-              "r": "Vertical"
+              "x": 2,
+              "y": 9,
+              "r": "Horizontal"
             },
             "upd": {
               "Repairable": {
@@ -5418,12 +5418,12 @@
           {
             "_id": "696189d57e577649bc7cfba3",
             "_tpl": "5d5d87f786f77427997cfaef",
-            "parentId": "696090af32028710ac92de9f",
+            "parentId": "6960ac9632028710ac980879",
             "slotId": "main",
             "location": {
-              "x": 6,
-              "y": 6,
-              "r": "Horizontal"
+              "x": 2,
+              "y": 3,
+              "r": "Vertical"
             }
           },
           {
@@ -5566,7 +5566,7 @@
             "slotId": "hideout",
             "location": {
               "x": 4,
-              "y": 0,
+              "y": 3,
               "r": "Horizontal"
             },
             "upd": {
@@ -6009,8 +6009,13 @@
           {
             "_id": "696193ea7e577649bc7f5397",
             "_tpl": "656f9d5900d62bcd2e02407c",
-            "parentId": "696189d57e577649bc7cfba3",
-            "slotId": "Front_plate",
+            "parentId": "696090af32028710ac92de9f",
+            "slotId": "main",
+            "location": {
+              "x": 4,
+              "y": 8,
+              "r": "Horizontal"
+            },
             "upd": {
               "Repairable": {
                 "Durability": 44.80094,
@@ -6070,8 +6075,7 @@
             "slotId": "hideout",
             "location": {
               "x": 5,
-              "y": 0,
-              "rotation": false,
+              "y": 3,
               "r": "Horizontal"
             },
             "upd": {
@@ -6160,7 +6164,7 @@
             "parentId": "696090ae32028710ac92de9c",
             "slotId": "main",
             "location": {
-              "x": 9,
+              "x": 6,
               "y": 2,
               "r": "Horizontal"
             },
@@ -6172,7 +6176,7 @@
             "_id": "6960acac32028710ac981abd",
             "_tpl": "5c0e530286f7747fa1419862",
             "parentId": "696199a67e577649bc802667",
-            "slotId": "GridView (5)",
+            "slotId": "GridView (2)",
             "location": {
               "x": 0,
               "y": 0,
@@ -6222,7 +6226,7 @@
             "_id": "696147fe8446ef5e1c148db9",
             "_tpl": "5ed515f6915ec335206e4152",
             "parentId": "696199a67e577649bc802667",
-            "slotId": "GridView (2)",
+            "slotId": "GridView (10)",
             "location": {
               "x": 0,
               "y": 0,
@@ -6440,7 +6444,7 @@
             "slotId": "pocket2",
             "location": {
               "x": 0,
-              "y": 0,
+              "y": 1,
               "r": "Horizontal"
             },
             "upd": {
@@ -6465,7 +6469,7 @@
             "slotId": "main",
             "location": {
               "x": 9,
-              "y": 3,
+              "y": 2,
               "r": "Horizontal"
             },
             "upd": {
@@ -6603,11 +6607,11 @@
           {
             "_id": "69619d3a7e577649bc80be44",
             "_tpl": "5a33b652c4a28232996e407c",
-            "parentId": "696090ae32028710ac92de9c",
-            "slotId": "main",
+            "parentId": "6961c8151d89ab0adc1e0b3a",
+            "slotId": "GridView (4)",
             "location": {
-              "x": 2,
-              "y": 5,
+              "x": 0,
+              "y": 0,
               "r": "Horizontal"
             },
             "upd": {
@@ -6673,16 +6677,16 @@
             "parentId": "6960ac9632028710ac980879",
             "slotId": "main",
             "location": {
-              "x": 3,
-              "y": 3,
+              "x": 0,
+              "y": 0,
               "r": "Vertical"
             }
           },
           {
             "_id": "69619dae7e577649bc8102dd",
             "_tpl": "5a718da68dc32e000d46d264",
-            "parentId": "696155678446ef5e1c17a9c8",
-            "slotId": "10",
+            "parentId": "69608f9b32028710ac92aff7",
+            "slotId": "pocket1",
             "location": {
               "x": 0,
               "y": 0,
@@ -6699,8 +6703,8 @@
             "slotId": "main",
             "location": {
               "x": 0,
-              "y": 5,
-              "r": "Horizontal"
+              "y": 4,
+              "r": "Vertical"
             }
           },
           {
@@ -6984,11 +6988,11 @@
           {
             "_id": "69619db17e577649bc8106da",
             "_tpl": "55d48ebc4bdc2d8c2f8b456c",
-            "parentId": "696090ae32028710ac92de9c",
-            "slotId": "main",
+            "parentId": "6961c8151d89ab0adc1e0b3a",
+            "slotId": "GridView (5)",
             "location": {
-              "x": 1,
-              "y": 3,
+              "x": 0,
+              "y": 1,
               "r": "Horizontal"
             },
             "upd": {
@@ -7160,7 +7164,7 @@
             "_id": "6960ac9132028710ac980656",
             "_tpl": "544fb3f34bdc2d03748b456a",
             "parentId": "696199a67e577649bc802667",
-            "slotId": "GridView (8)",
+            "slotId": "GridView (9)",
             "location": {
               "x": 0,
               "y": 0,
@@ -7367,8 +7371,8 @@
             "slotId": "main",
             "location": {
               "x": 2,
-              "y": 6,
-              "r": "Vertical"
+              "y": 8,
+              "r": "Horizontal"
             },
             "upd": {
               "Repairable": {
@@ -7483,7 +7487,7 @@
             "parentId": "696090ae32028710ac92de9c",
             "slotId": "main",
             "location": {
-              "x": 6,
+              "x": 5,
               "y": 6,
               "r": "Vertical"
             },
@@ -7568,8 +7572,8 @@
             "parentId": "696090ae32028710ac92de9c",
             "slotId": "main",
             "location": {
-              "x": 5,
-              "y": 6,
+              "x": 4,
+              "y": 8,
               "r": "Vertical"
             },
             "upd": {
@@ -7642,8 +7646,8 @@
           {
             "_id": "6961aa3a01001a596709c057",
             "_tpl": "59e6918f86f7746c9f75e849",
-            "parentId": "69608f9b32028710ac92aff7",
-            "slotId": "pocket1",
+            "parentId": "696155678446ef5e1c17a9c8",
+            "slotId": "9",
             "location": {
               "x": 0,
               "y": 0,
@@ -7769,8 +7773,8 @@
             "parentId": "696090ae32028710ac92de9c",
             "slotId": "main",
             "location": {
-              "x": 5,
-              "y": 8,
+              "x": 4,
+              "y": 6,
               "r": "Vertical"
             },
             "upd": {
@@ -7977,8 +7981,8 @@
             "parentId": "696090ae32028710ac92de9c",
             "slotId": "main",
             "location": {
-              "x": 6,
-              "y": 3,
+              "x": 5,
+              "y": 2,
               "r": "Horizontal"
             },
             "upd": {
@@ -8026,11 +8030,11 @@
           {
             "_id": "6961b0997e577649bc83cf20",
             "_tpl": "570fd6c2d2720bc6458b457f",
-            "parentId": "696090ae32028710ac92de9c",
-            "slotId": "main",
+            "parentId": "6961c8151d89ab0adc1e0b3a",
+            "slotId": "GridView (3)",
             "location": {
-              "x": 3,
-              "y": 4,
+              "x": 0,
+              "y": 0,
               "r": "Horizontal"
             },
             "upd": {
@@ -8069,11 +8073,11 @@
           {
             "_id": "6961b0997e577649bc83cf26",
             "_tpl": "5fce0cf655375d18a253eff0",
-            "parentId": "696090ae32028710ac92de9c",
-            "slotId": "main",
+            "parentId": "6961c8151d89ab0adc1e0b3a",
+            "slotId": "GridView (6)",
             "location": {
-              "x": 2,
-              "y": 3,
+              "x": 0,
+              "y": 0,
               "r": "Horizontal"
             },
             "upd": {
@@ -8142,26 +8146,12 @@
           {
             "_id": "6961b0997e577649bc83cf2a",
             "_tpl": "5ae30c9a5acfc408fb139a03",
-            "parentId": "696090ae32028710ac92de9c",
-            "slotId": "main",
+            "parentId": "6961c8151d89ab0adc1e0b3a",
+            "slotId": "GridView (7)",
             "location": {
-              "x": 4,
-              "y": 2,
+              "x": 0,
+              "y": 0,
               "r": "Vertical"
-            },
-            "upd": {
-              "SpawnedInSession": false
-            }
-          },
-          {
-            "_id": "6961b0997e577649bc83cf2c",
-            "_tpl": "56d59d3ad2720bdb418b4577",
-            "parentId": "696090ae32028710ac92de9c",
-            "slotId": "main",
-            "location": {
-              "x": 5,
-              "y": 3,
-              "r": "Horizontal"
             },
             "upd": {
               "SpawnedInSession": false
@@ -8170,8 +8160,8 @@
           {
             "_id": "6961b0a17e577649bc83cf35",
             "_tpl": "5a718da68dc32e000d46d264",
-            "parentId": "696155678446ef5e1c17a9c8",
-            "slotId": "9",
+            "parentId": "69608f9b32028710ac92aff7",
+            "slotId": "pocket2",
             "location": {
               "x": 0,
               "y": 0,
@@ -8463,11 +8453,11 @@
           {
             "_id": "6961b1277e577649bc83ddaf",
             "_tpl": "5fce0cf655375d18a253eff0",
-            "parentId": "696090ae32028710ac92de9c",
-            "slotId": "main",
+            "parentId": "6961c8151d89ab0adc1e0b3a",
+            "slotId": "GridView (2)",
             "location": {
-              "x": 2,
-              "y": 4,
+              "x": 0,
+              "y": 1,
               "r": "Horizontal"
             },
             "upd": {
@@ -8711,6 +8701,21 @@
             "upd": {
               "SpawnedInSession": true
             }
+          },
+          {
+            "_id": "6961c8151d89ab0adc1e0b3a",
+            "_tpl": "681d1395a5c2308fdcbcda92",
+            "parentId": "664115f68b8ae85875060b39",
+            "slotId": "hideout",
+            "location": {
+              "x": 4,
+              "y": 0,
+              "r": "Vertical"
+            },
+            "upd": {
+              "StackObjectsCount": 1,
+              "SpawnedInSession": false
+            }
           }
         ],
         "equipment": "69608f9b32028710ac92afd4",
@@ -8809,9 +8814,9 @@
           },
           {
             "PointsEarnedDuringSession": 0,
-            "LastAccess": 1768012206,
+            "LastAccess": 1768016564,
             "Id": "Charisma",
-            "Progress": 449.43453
+            "Progress": 449.44453
           },
           {
             "PointsEarnedDuringSession": 0,
@@ -9001,9 +9006,9 @@
           },
           {
             "PointsEarnedDuringSession": 0,
-            "LastAccess": 1768011813,
+            "LastAccess": 1768014858,
             "Id": "HideoutManagement",
-            "Progress": 608
+            "Progress": 609
           },
           {
             "PointsEarnedDuringSession": 0,
@@ -13224,12 +13229,6 @@
           "type": "CounterCreator",
           "value": 0,
           "sourceId": "596b43fb86f77457ca186186"
-        },
-        "673f5d6fdd6ed700c703afdc": {
-          "id": "600ab99ce4022c380a726090",
-          "type": "CounterCrafting",
-          "value": 1.8,
-          "sourceId": "673f5d6fdd6ed700c703afdc"
         }
       },
       "InsuredItems": [
@@ -13544,13 +13543,33 @@
         {
           "tid": "54cb57776803fa99248b456e",
           "itemId": "69619d3a7e577649bc80be45"
+        },
+        {
+          "tid": "54cb57776803fa99248b456e",
+          "itemId": "696189d57e577649bc7cfba3"
+        },
+        {
+          "tid": "54cb57776803fa99248b456e",
+          "itemId": "696189d57e577649bc7cfbac"
+        },
+        {
+          "tid": "54cb57776803fa99248b456e",
+          "itemId": "696189d57e577649bc7cfba9"
+        },
+        {
+          "tid": "54cb57776803fa99248b456e",
+          "itemId": "696189d57e577649bc7cfba5"
+        },
+        {
+          "tid": "54cb57776803fa99248b456e",
+          "itemId": "696189d57e577649bc7cfba6"
         }
       ],
       "Hideout": {
         "Production": {
           "66827062405f392b203a44cf": {
             "Products": [],
-            "Progress": 14419,
+            "Progress": 18573,
             "inProgress": true,
             "StartTimestamp": 1767998576,
             "SkipTime": 0,
@@ -13672,8 +13691,8 @@
                       "StackObjectsCount": 1,
                       "SpawnedInSession": false,
                       "Resource": {
-                        "Value": 54.7765,
-                        "UnitsConsumed": 5.2235
+                        "Value": 44.1414,
+                        "UnitsConsumed": 5.8586
                       }
                     }
                   }
@@ -14121,7 +14140,7 @@
         "HideoutCounters": null,
         "Seed": "d83cc8aa24ac8ae282ae73395e138f1b",
         "MannequinPoses": {},
-        "sptUpdateLastRunTimestamp": 1768012985,
+        "sptUpdateLastRunTimestamp": 1768017139,
         "Customization": {
           "Wall": "675844bdf94a97cbbe096f1a",
           "Floor": "6758443ff94a97cbbe096f18",
@@ -14549,7 +14568,7 @@
         },
         "54cb57776803fa99248b456e": {
           "loyaltyLevel": 1,
-          "salesSum": 1180444,
+          "salesSum": 1182266,
           "standing": 0.24,
           "nextResupply": 1767942550,
           "unlocked": true,
@@ -14581,7 +14600,7 @@
         },
         "5a7c2eca46aef81a7ca2145d": {
           "loyaltyLevel": 1,
-          "salesSum": 1692516,
+          "salesSum": 1829221,
           "standing": 0.26,
           "nextResupply": 1767947072,
           "unlocked": true,
@@ -15173,10 +15192,189 @@
         {
           "id": "62825ef60e88d037dc1eb426",
           "name": "Daily_Savage",
-          "activeQuests": [],
+          "activeQuests": [
+            {
+              "changeCost": [
+                {
+                  "templateId": "5449016a4bdc2d6f028b456f",
+                  "count": 5000
+                }
+              ],
+              "changeStandingCost": 0,
+              "questStatus": {
+                "id": "6961bfb51d89ab0adc1cd36e",
+                "uid": "69607bbe83303342803cba1c",
+                "qid": "6961bfb51d89ab0adc1cd36d",
+                "startTime": 0,
+                "status": 1,
+                "statusTimers": {}
+              },
+              "_id": "6961bfb51d89ab0adc1cd36d",
+              "canShowNotificationsInGame": true,
+              "conditions": {
+                "AvailableForFinish": [
+                  {
+                    "id": "6961bfb51d89ab0adc1cd372",
+                    "index": 0,
+                    "dynamicLocale": true,
+                    "globalQuestCounterId": "",
+                    "visibilityConditions": [],
+                    "parentId": "",
+                    "value": 2,
+                    "type": "Completion",
+                    "oneSessionOnly": false,
+                    "doNotResetIfCounterCompleted": false,
+                    "counter": {
+                      "id": "6961bfb51d89ab0adc1cd371",
+                      "conditions": [
+                        {
+                          "id": "6961bfb51d89ab0adc1cd36f",
+                          "dynamicLocale": true,
+                          "status": [
+                            "Survived"
+                          ],
+                          "conditionType": "ExitStatus"
+                        },
+                        {
+                          "id": "6961bfb51d89ab0adc1cd370",
+                          "dynamicLocale": true,
+                          "target": [
+                            "Interchange"
+                          ],
+                          "conditionType": "Location"
+                        }
+                      ]
+                    },
+                    "completeInSeconds": 0,
+                    "conditionType": "CounterCreator"
+                  }
+                ],
+                "AvailableForStart": [],
+                "Fail": []
+              },
+              "description": "62825ef60e88d037dc1eb42c description 579dc571d53a0658a154fbec 0",
+              "failMessageText": "62825ef60e88d037dc1eb42c failMessageText 579dc571d53a0658a154fbec 0",
+              "name": "62825ef60e88d037dc1eb42c name 579dc571d53a0658a154fbec",
+              "note": "62825ef60e88d037dc1eb42c note 579dc571d53a0658a154fbec",
+              "traderId": "579dc571d53a0658a154fbec",
+              "location": "5714dbc024597771384a510d",
+              "image": "/files/quest/icon/616d993bc8c5ad2ab30ff6ba.jpg",
+              "type": "Exploration",
+              "isKey": false,
+              "restartable": false,
+              "instantComplete": false,
+              "secretQuest": false,
+              "startedMessageText": "62825ef60e88d037dc1eb42c startedMessageText 579dc571d53a0658a154fbec 0",
+              "successMessageText": "62825ef60e88d037dc1eb42c successMessageText 579dc571d53a0658a154fbec 0",
+              "acceptPlayerMessage": "62825ef60e88d037dc1eb42c acceptPlayerMessage 579dc571d53a0658a154fbec",
+              "acceptanceAndFinishingSource": "eft",
+              "declinePlayerMessage": "62825ef60e88d037dc1eb42c declinePlayerMessage 579dc571d53a0658a154fbec",
+              "completePlayerMessage": "62825ef60e88d037dc1eb42c completePlayerMessage 579dc571d53a0658a154fbec",
+              "templateId": "62825ef60e88d037dc1eb42c",
+              "rewards": {
+                "Success": [
+                  {
+                    "value": 27,
+                    "id": "6961bfb51d89ab0adc1cd374",
+                    "type": "Item",
+                    "index": -1,
+                    "target": "6961bfb51d89ab0adc1cd373",
+                    "items": [
+                      {
+                        "_id": "6961bfb51d89ab0adc1cd373",
+                        "_tpl": "569668774bdc2da2298b4568",
+                        "upd": {
+                          "StackObjectsCount": 27,
+                          "SpawnedInSession": false
+                        }
+                      }
+                    ],
+                    "isEncoded": false,
+                    "unknown": false,
+                    "findInRaid": false,
+                    "gameMode": [],
+                    "availableInGameEditions": []
+                  },
+                  {
+                    "value": 1,
+                    "id": "6961bfb51d89ab0adc1cd376",
+                    "type": "Item",
+                    "index": 0,
+                    "target": "6961bfb51d89ab0adc1cd375",
+                    "items": [
+                      {
+                        "_id": "6961bfb51d89ab0adc1cd375",
+                        "_tpl": "5d235b4d86f7742e017bc88a",
+                        "upd": {
+                          "StackObjectsCount": 1,
+                          "SpawnedInSession": true
+                        }
+                      }
+                    ],
+                    "isEncoded": false,
+                    "unknown": false,
+                    "findInRaid": true,
+                    "gameMode": [],
+                    "availableInGameEditions": []
+                  },
+                  {
+                    "value": 2,
+                    "id": "6961bfb51d89ab0adc1cd378",
+                    "type": "Item",
+                    "index": 1,
+                    "target": "6961bfb51d89ab0adc1cd377",
+                    "items": [
+                      {
+                        "_id": "6961bfb51d89ab0adc1cd377",
+                        "_tpl": "5ef366938cef260c0642acad",
+                        "upd": {
+                          "StackObjectsCount": 2,
+                          "SpawnedInSession": true
+                        }
+                      }
+                    ],
+                    "isEncoded": false,
+                    "unknown": false,
+                    "findInRaid": true,
+                    "gameMode": [],
+                    "availableInGameEditions": []
+                  },
+                  {
+                    "value": 0.02,
+                    "id": "6961bfb51d89ab0adc1cd379",
+                    "type": "TraderStanding",
+                    "index": 2,
+                    "target": "579dc571d53a0658a154fbec",
+                    "unknown": false,
+                    "gameMode": [],
+                    "availableInGameEditions": []
+                  }
+                ],
+                "Started": [],
+                "Fail": []
+              },
+              "status": 0,
+              "changeQuestMessageText": "62825ef60e88d037dc1eb42c changeQuestMessageText 579dc571d53a0658a154fbec 0",
+              "side": "Scav",
+              "progressSource": "eft",
+              "rankingModes": [],
+              "gameModes": [],
+              "arenaLocations": []
+            }
+          ],
           "inactiveQuests": [],
-          "endTime": 0,
-          "changeRequirement": {},
+          "endTime": 1768100149,
+          "changeRequirement": {
+            "6961bfb51d89ab0adc1cd36d": {
+              "changeCost": [
+                {
+                  "templateId": "5449016a4bdc2d6f028b456f",
+                  "count": 5000
+                }
+              ],
+              "changeStandingCost": 0.01
+            }
+          },
           "freeChanges": 0,
           "freeChangesAvailable": 0
         }
@@ -16800,8 +16998,8 @@
       "_id": "54cb50c76803fa8b248b4571"
     },
     "54cb57776803fa99248b456e": {
-      "attachmentsNew": 1,
-      "new": 1,
+      "attachmentsNew": 0,
+      "new": 0,
       "type": 2,
       "pinned": false,
       "messages": [
@@ -16974,18 +17172,11 @@
           "dt": 1768012910,
           "templateId": "58fe0e3486f77471f772c3f2 4",
           "text": "",
-          "hasRewards": true,
-          "rewardCollected": false,
+          "hasRewards": false,
+          "rewardCollected": true,
           "items": {
             "stash": "6961bc587e577649bc86998f",
-            "data": [
-              {
-                "_id": "6961bc6e7e577649bc86aa76",
-                "_tpl": "5926c3b286f774640d189b6b",
-                "parentId": "6961bc587e577649bc86998f",
-                "slotId": "main"
-              }
-            ]
+            "data": []
           },
           "maxStorageTime": 51840000,
           "systemData": {
@@ -17551,7 +17742,8 @@
     ],
     "blacklistedItemTpls": [],
     "freeRepeatableRefreshUsedCount": {
-      "daily": 0
+      "daily": 0,
+      "daily_savage": 0
     },
     "migrations": {},
     "cultistRewards": {},
