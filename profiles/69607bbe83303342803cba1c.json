@@ -59,11 +59,11 @@
       },
       "Health": {
         "Hydration": {
-          "Current": 108,
+          "Current": 150,
           "Maximum": 150
         },
         "Energy": {
-          "Current": 32,
+          "Current": 150,
           "Maximum": 150
         },
         "Temperature": {
@@ -114,7 +114,7 @@
             }
           }
         },
-        "UpdateTime": 1768502239
+        "UpdateTime": 1768506315
       },
       "Inventory": {
         "items": [
@@ -5479,7 +5479,7 @@
               "r": "Horizontal"
             },
             "upd": {
-              "StackObjectsCount": 4064586,
+              "StackObjectsCount": 4863396,
               "PinLockState": 2
             }
           },
@@ -8147,21 +8147,6 @@
               "StackObjectsCount": 1,
               "SpawnedInSession": true,
               "PinLockState": 0
-            }
-          },
-          {
-            "_id": "69644e3b42221726a07d482c",
-            "_tpl": "59faff1d86f7746c51718c9c",
-            "parentId": "6961f0cea4514139b888b8d8",
-            "slotId": "main",
-            "location": {
-              "x": 3,
-              "y": 0,
-              "r": "Horizontal"
-            },
-            "upd": {
-              "StackObjectsCount": 1,
-              "SpawnedInSession": true
             }
           },
           {
@@ -17142,7 +17127,7 @@
               "r": "Horizontal"
             },
             "upd": {
-              "StackObjectsCount": 1477327
+              "StackObjectsCount": 684082
             }
           },
           {
@@ -18138,7 +18123,7 @@
             "slotId": "Groin_back",
             "upd": {
               "Repairable": {
-                "Durability": 3.813349,
+                "Durability": 14,
                 "MaxDurability": 14
               }
             }
@@ -18150,7 +18135,7 @@
             "slotId": "Groin",
             "upd": {
               "Repairable": {
-                "Durability": 8.20159,
+                "Durability": 22,
                 "MaxDurability": 22
               }
             }
@@ -18162,7 +18147,7 @@
             "slotId": "Shoulder_r",
             "upd": {
               "Repairable": {
-                "Durability": 21.617382,
+                "Durability": 24,
                 "MaxDurability": 24
               }
             }
@@ -18174,7 +18159,7 @@
             "slotId": "Shoulder_l",
             "upd": {
               "Repairable": {
-                "Durability": 22,
+                "Durability": 23.99999809,
                 "MaxDurability": 24
               }
             }
@@ -18210,7 +18195,7 @@
             "slotId": "Soft_armor_left",
             "upd": {
               "Repairable": {
-                "Durability": 0,
+                "Durability": 20,
                 "MaxDurability": 20
               }
             }
@@ -18234,7 +18219,7 @@
             "slotId": "Soft_armor_front",
             "upd": {
               "Repairable": {
-                "Durability": 40.13325,
+                "Durability": 51.9999988,
                 "MaxDurability": 52
               }
             }
@@ -18246,7 +18231,7 @@
             "slotId": "Right_side_plate",
             "upd": {
               "Repairable": {
-                "Durability": 15.0819311,
+                "Durability": 17.73027,
                 "MaxDurability": 17.73027
               }
             }
@@ -18258,7 +18243,7 @@
             "slotId": "Left_side_plate",
             "upd": {
               "Repairable": {
-                "Durability": 0,
+                "Durability": 17.73027,
                 "MaxDurability": 17.73027
               }
             }
@@ -18270,7 +18255,7 @@
             "slotId": "Back_plate",
             "upd": {
               "Repairable": {
-                "Durability": 0,
+                "Durability": 62.40237,
                 "MaxDurability": 62.40237
               }
             }
@@ -18282,7 +18267,7 @@
             "slotId": "Front_plate",
             "upd": {
               "Repairable": {
-                "Durability": 0,
+                "Durability": 58.73146,
                 "MaxDurability": 58.73146
               }
             }
@@ -20514,10 +20499,10 @@
             "Progress": 905.3639
           },
           {
-            "PointsEarnedDuringSession": 0.6346992499999999,
-            "LastAccess": 1768502536,
+            "PointsEarnedDuringSession": 5.537794786,
+            "LastAccess": 1768506397,
             "Id": "Intellect",
-            "Progress": 126.26852625
+            "Progress": 131.17162178599997
           },
           {
             "PointsEarnedDuringSession": 5.31221056,
@@ -28255,7 +28240,7 @@
         "HideoutCounters": null,
         "Seed": "d83cc8aa24ac8ae282ae73395e138f1b",
         "MannequinPoses": {},
-        "sptUpdateLastRunTimestamp": 1768505736,
+        "sptUpdateLastRunTimestamp": 1768506499,
         "Customization": {
           "Wall": "675844bdf94a97cbbe096f1a",
           "Floor": "6758443ff94a97cbbe096f18",
@@ -30854,7 +30839,7 @@
         },
         "54cb57776803fa99248b456e": {
           "loyaltyLevel": 3,
-          "salesSum": 14413933,
+          "salesSum": 15212743,
           "standing": 0.56,
           "nextResupply": 1767942550,
           "unlocked": true,
@@ -30886,7 +30871,7 @@
         },
         "5a7c2eca46aef81a7ca2145d": {
           "loyaltyLevel": 4,
-          "salesSum": 16771761,
+          "salesSum": 17565006,
           "standing": 1.22,
           "nextResupply": 1767947072,
           "unlocked": true,
